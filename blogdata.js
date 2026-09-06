@@ -31,9 +31,11 @@ const data = [{
              "text":"Laatste dag van de eerste week. Vandaag heb ik 6,5 inventarisatie formulier ingevuld. Ik heb vandaag ook besloten in google Earth een kaart te maken van de kunstobjecten van de gemeente Enschede. Ik had vandaag overigens weer een probleem gehad met het vinden van een object. Deze zou ergens op het terrein van de technische universiteit van Twente staan. Na zo'n vier keer de hele campus te zijn rond geweest heb ik het maar opgegeven. Ik heb dit wel even gemeld. Verderrest ging het best goed vandaag. Aan het einde van de dag heb ik samen met degene die in het atelier werkt het atelier schoongemaakt. Sorry dat ik je naam ben vergeten persoon. Ik heb het best prima naar mijn zin gehad deze eerste week."
          }]
     }],
-    "fotos":[{
+    "fotos":[
+        {
         "src":"IMG_2879.jpeg"
-    },{
+    },
+             {
         "src":"IMG_2880.jpeg"
     }]
 }]
