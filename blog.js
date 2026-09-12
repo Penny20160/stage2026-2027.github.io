@@ -1,6 +1,3 @@
-// JavaScript source code
-// JavaScript source code
-
 function render_blog(pagina) {
 
     var p = 0;
@@ -31,11 +28,11 @@ function render_blog(pagina) {
                 content.appendChild(e);
             }
         }
-        if (data[pagina].fotos !== undefined && data[pagina].fotos.length > 0) {
+        if (data[pagina].fotos !== undefined && data[pagina].fotos.length > 0){
             var gallery = document.createElement("div");
-            gallery.id = "gallery-" + pagina;
-            content.appendChild(gallery);
-            showGallery("gallery-" + pagina, data[pagina].fotos);
+            gallery.id = "gallery-"+pagina;
+            content.appendChild (gallery);
+            showGallery("gallery-"+pagina,data[pagina].fotos);
         }
         var e2;
         e2 = document.createElement('a');
@@ -53,14 +50,14 @@ function render_blog(pagina) {
         if (pagina - 2 > 0 && data.length > 5) {
             s = pagina - 2;
         }
-        let m = (s + 4) < (data.length - 1) ? (s + 4) : (data.length - 1);
+        let m = (s + 4) < (data.length - 1) ? (s + 4) : (data.length-1);
         var pe;
         for (pe = s; pe <= m; pe++) {
 
             e2 = document.createElement('a');
             e2.classList.add("page-link");
             e2.href = 'javascript:void(0)';
-            e2.appendChild(document.createTextNode(pe + 1));
+            e2.appendChild(document.createTextNode(pe+1));
             e2.onclick = (function (r) { return function () { render_blog(r); } })(pe);;
             e = document.createElement('li');
             e.appendChild(e2);
@@ -79,9 +76,9 @@ function render_blog(pagina) {
         e = document.createElement('li');
         e.appendChild(e2);
         e.classList.add('page-item');
-        if (pagina === (data.length - 1)) { e.classList.add('disabled'); }
+        if (pagina === (data.length-1)) { e.classList.add('disabled'); }
         pager.appendChild(e);
     }
 }
 
-window.addEventListener('load', function () { render_blog(0); });
+window.addEventListener('load', function (
