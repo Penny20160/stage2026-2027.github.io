@@ -50,5 +50,38 @@ const data = [{
         {
             "src":"VCXK0819.JPG"
         }]
-}]
+},
+   {
+     "label" :"Week 2"   
+       "dagen":[{
+         "datum":"07-09-2026",
+           "entries":[{
+           "text":"Ik ben de eerste paar uren van deze dag verder gegaan met het schrijven van de inspectie formulieren. René was echter dit weekend naar Enschede geweest en had meer foto's toegevoegd aan de map waaronder ook van een object waar ik het inspectieformulier al had gemaakt. Die stond dus ergens tussen de foto's. Ik heb dus na de lunch besloten om eerst alle foto's te ordenen en dan gelijk ook de adressen toe te voegen in google earth. Ik dacht dat dit sneller zou gaan dan elke keer opnieuw het adres vinden. Ik heb vandaag ongeveer 80% van de foto's geordend en doe morgen de laatste set. Daarnaast heb ik met René mijn leerdoelen besproken. Hij vondt ze in feite prima en ik hoefde er niks aan aan te passen. Ik heb dit vorige week ook vergeten in mijn blog te zetten maar we hadden ook afspraken gemaakt over aankomende woensdag vanwege de ovstaking. De afspraak is dat ik thuis zal werken en René gaat morgen een soort server bouwen waar ik ook thuis op kan komen. Dus morgen moet ik een aantal van die bestanden aan die server toevoegen."
+           }]
+       },
+     {
+         "datum":"08-09-2026",
+          "entries":[{
+           "text":"Ik heb vandaag eerst de laatste foto's geordend en daarna heb ik tot de fotoset van object veertig aan de server toegoegd. Dat duurde tot ongeveer lunchtijd. Daarna ben ik weer verder gegaan met inspectieformulieren schrijven. Ik stond gisteren op object 18 en ben vandaag gekomen tot object 26 wat ik best veel vond. Ik mocht de laptop van werk meenemen wat het werk wat makkelijker maakte. "   
+          }]
+     },
+     {
+         "datum":"09-09-2026",
+         "entries":[{
+             "text":"Ik heb vandaag vanuit huis gewerkt. Dit ging me redelijk af alhoewel ik me wel minder kon concentreren dan op kantoor. Ik ben van object 27 tot Object 38 gekomen. Ik was alleen vergeten het meerjaren onderhoudsplan vergeten op te slaan op de server wat een klein beetje onhandig was. Ik pas morgen ook de maten aan, want ik vond twee multomappen vol formulieren mee sjouwen een klein beetje overdreven. "
+         }]
+     },
+     {
+         "datum":"10-09-2026",
+         "entries":[{
+             "text":"Vandaag heb ik eerst de formulieren aangepast die ik thuis had gemaakt en daarna ben ik verder gegaan met de rest van het werk. Ik ben vandaag tot 42 gekomen dus ik schat dat ik morgen ergens in de 50 eindig. Verder is er niet veel bijzonders gebeurd"
+         }]
+     },
+   {
+       "datum":"11-09-2026",
+       "entries":[{
+           "text":"Ik ben ten eerste niet tot ergens in de 50 gekomen. Er was vandaag een specialist gekomen voor de steen van vorige week om die weer in elkaar te lijmen. Ik mocht mee helpen of eigenlijk werd dat van me verwacht. Het punt was dat er vergeten was dit aan mij door te geven waardoor ik geen praktijkkleding aan had. Ik heb wel een shirt te leen gekregen en ik heb een schort zelf maar aan getrokken. Ik denk dat ik in het vervolg maar een set van m'n praktijkkleding daar laat om dit soort situaties te voorkomen. Ik heb vandaag vooral geholpen met het stof weg te zuigen van het borren om een stel pinnen in de steen te krijgen. Dit zodat de oplossing reversibel is. We zijn daar mee bezig geweest tot ongeveer half 3 waarna de verwachting was dat ik nog wat inspectieformulieren zal in vullen. Alleen was mijn concentratie op dat punt op en is er bij me met moeite nog twee formulieren uit gekomen. René had dit ook wel door en we zijn ongeveer 40 minuten eerder gestopt. Ik ga maandag wel wat harder werken om de verloren formulieren in te halen."
+       }]
+        }]
+              }]
 
