@@ -81,4 +81,4 @@ function render_blog(pagina) {
     }
 }
 
-window.addEventListener('load', function (
+window.addEventListener('load', function () { render_blog(0); });
