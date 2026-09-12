@@ -37,6 +37,18 @@ const data = [{
     },
              {
         "src":"IMG_2880.jpeg"
-    }]
+    },
+        {
+            "src":"IMG_9207.JPG"
+        },
+        {
+            "src":"IMG_9613.JPG"
+        },
+        {
+            "src":"IMG_9614.JPG"
+        },
+        {
+            "src":"VCXK0819.JPG"
+        }]
 }]
 
