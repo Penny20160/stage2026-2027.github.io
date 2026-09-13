@@ -52,7 +52,7 @@ const data = [{
         }]
 },
    {
-     "label" :"Week 2"   
+     "label" :"Week 2",  
        "dagen":[{
          "datum":"07-09-2026",
            "entries":[{
