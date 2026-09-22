@@ -83,5 +83,47 @@ const data = [{
            "text":"Ik ben ten eerste niet tot ergens in de 50 gekomen. Er was vandaag een specialist gekomen voor de steen van vorige week om die weer in elkaar te lijmen. Ik mocht mee helpen of eigenlijk werd dat van me verwacht. Het punt was dat er vergeten was dit aan mij door te geven waardoor ik geen praktijkkleding aan had. Ik heb wel een shirt te leen gekregen en ik heb een schort zelf maar aan getrokken. Ik denk dat ik in het vervolg maar een set van m'n praktijkkleding daar laat om dit soort situaties te voorkomen. Ik heb vandaag vooral geholpen met het stof weg te zuigen van het borren om een stel pinnen in de steen te krijgen. Dit zodat de oplossing reversibel is. We zijn daar mee bezig geweest tot ongeveer half 3 waarna de verwachting was dat ik nog wat inspectieformulieren zal in vullen. Alleen was mijn concentratie op dat punt op en is er bij me met moeite nog twee formulieren uit gekomen. René had dit ook wel door en we zijn ongeveer 40 minuten eerder gestopt. Ik ga maandag wel wat harder werken om de verloren formulieren in te halen."
        }]
         }]
-              }]
+    },
+    {
+        "label": "Week 3",
+        "dagen": [{
+            "datum": "14-09-2026",
+            "entries": [{
+                "text":"Ik ben vandaag weer verder gegaan met de inspectieformulieren. Dit ging redelijk. Donderdag en vrijdag ga ik bezig zijn met een ophangsysteem voor schilderijen. Ik weet niet meer exact tot hoever ik was gekomen met de inspectieformulieren. Ik had wel weer een object dat niet te vinden was. René en Renate hadden die zelf ook niet kunnen vinden dus we hebben maar gezegd dat die niet aanwezig was. Verder is er niet veel bijzonders gebeurd."
+            }]
+        },
+            {
+                "datum": "15-09-2026",
+                "entries": [{
+                    "text":"Zoals gewoonlijk ben ik weer verder gegaan met de inspectieformulieren. Ik had wel weer objecten die niet te vinden waren, tenminste niet in google earth jaar 2025. In Google earth jaar 2009 bestonden ze nog wel, maar ze waren daarna weggehaald. Voor een object kon ik wel een reden verzinnen de ander niet. Sinds Rene en Renate in die regio nog niet waren geweest waren ze wel blij met het feit dat er niet meer naar gezocht hoefde te worden."
+                }]
+            },
+            {
+                "datum": "16-09-2026",
+                "entries": [{
+                    "text":"Ik ben vandaag tot object 81 gekomen. Daarnaast heb ik samen met Kilermo een testrun gedraaid voor het ophangsysteem dat we zouden maken. Er waren twee ideeën: De eerste was dat we blok hout zaagden en dat dan een stuk dunner maakten zodat het onder de rand paste. Het andere idee was dat we een strip metaal ombuigden en voor onder de rand iets van een blokje er onder maakten. Het werd het tweede idee sinds dit een stuk sneller te maken was. De metalen strips moesten wel bijgehaald worden sinds de ene die wij gebruikt hadden de enige was. Kilermo en ik hebben voor morgen afgesproken dat ik eerst de kleine blokjes zal zagen, sinds hij eerst naar een klus moest."
+                }]
+            },
+            {
+                "datum": "17-09-2026",
+                "entries": [{
+                    "text":"Ik ben dus vandaag eerst begonnen met het zagen van 34 houtblokjes. Daarna was Kilermo nog niet terug dus ben ik weer eventjes verder gegaan met formulieren invullen. Toen Kilermo terug was bleek dat we daarnaast eerst foto's moesten maken van deze schildereijen die samen een 16-luik vormden. Ik had dus een ezel op het meest verlichtde stuk gezet, toen bleek dat we een soort fotostudio in een van de atelieren hadden. Die moest nog wel eerst opgebouwd worden. Nadat die was opgebouwd en Kilermo de juiste instelling van het licht op de foto had ingesteld(sinds ik geen ene flut van fotografie weet heb ik dit maar aan Kilermo overgelaten) zijn we gaan fotograferen. We konden ook weinig anders sinds die plaatjes nog niet binnen waren. Nadat de foto's waren geschoten moest ik naar huis. Mijn begeleider was dinsdag ziek geworden dus ik kon wel langer dan normaal blijven, maar ik moest nog wel een uur eerder naar huis wegens sport. Ik rij nu paard op de donderdagavond. Dit brengt de minste problemen met m'n stage. Morgen gaan we de metalen strips ombuigen."
+                }]
+            },
+            {
+                "datum": "18-09-2026",
+                "entries": [{
+                    "text": "Er moest vandaag eerst nog gereedschap bij moeten worden geregeld voor we aan de slag konden. Ik ben dus eerst begonnen op de computer. Nadat er een bankschroef was geregeld begon Kilermo met het ombuigen van de plaatjes. Daarnaast bleken de schroeven wat lang te zijn dus ik moest met een slijptol de schroeven wat af te veilen. Dit waren de kortste maat die te koop zijn voordat er gevraagd wordt waarom er niet gewoon kortere schroeven gekocht zijn. Sinds tijdens het werk bleek dat we beiden eigenlijk de bankschroef nodig hadden ben ik, maar verder gegaan op de computer. Toen Kilermo klaar was met het buigen van de plaatjes kon ik weer aan de bankschroef met de slijptol en de schroefjes. Daarnaast moesten er nog gaten geboord worden in de blokjes hout en dat heb ik ook nog gedaan. De gaten vielen wel wat groot uitvoor de schroeven dus ik moet maandag de schroeven aan de blokjes hout lijmen. We zijn toen om tien voor 5 naar huis gegaan. Rene en Renate gaan dit weekend weer naar Enschede dus ik kan maandag weer foto's ordenen."
+                }]
+            }]
+    },
+    {
+        "label": "Week 4",
+        "dagen": [{
+            "datum": "21-09-2026",
+            "entries": [{
+                "text":"Renate en ik waren vandaag de enigen in kantoor. Renate was een beetje ziekjes dus ze zei dat ze zal kijken hoelang ze het vol zal houden. Ik begon vandaag eerst vandaag eerst met lijmen van de blokjes en daarna ben ik de foto's gaan ordenen en de adressen die ik nog niet had toe te voegen. Hier ben ik mee bezig geweest tot Renate zei dat we zouden stoppen. Woensdag begin ik eerst met het ordenen van de multomap en daarna ga ik weer formulieren invullen en aanpassen."
+            }]
+        }]
+    }]
 
