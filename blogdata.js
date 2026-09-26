@@ -49,9 +49,6 @@ const data = [{
         },
         {
             "src":"VCXK0819.JPG"
-        },
-        {
-            "src":"P1012858.JPG"
         }]
 },
    {
@@ -126,7 +123,31 @@ const data = [{
             "datum": "21-09-2026",
             "entries": [{
                 "text":"Renate en ik waren vandaag de enigen in kantoor. Renate was een beetje ziekjes dus ze zei dat ze zal kijken hoelang ze het vol zal houden. Ik begon vandaag eerst vandaag eerst met lijmen van de blokjes en daarna ben ik de foto's gaan ordenen en de adressen die ik nog niet had toe te voegen. Hier ben ik mee bezig geweest tot Renate zei dat we zouden stoppen. Woensdag begin ik eerst met het ordenen van de multomap en daarna ga ik weer formulieren invullen en aanpassen."
-            }]
+            },
+                {
+                    "datum": "22-09-2026",
+                    "entries": [{
+                        "text":"Terugkomdag vandaag. Ik kan dus vandaag niks schrijven over stage."
+                    }]
+                },
+                {
+                    "datum": "23-09-2026",
+                    "entries": [{
+                        "text":"Renate was vandaag niet op kantoor aanwezig dus Janine liet me vandaag binnen. Janine was vorige week terug gekomen van vakantie en werkt in het atelier. We waren met z'n tweeën dus het was wat saai. Ik heb zoals eerder gezegd eerst de map geordend. Daarna heb ik de formulieren die ik eerder had gemaakt bijgewerkt met de gegevens die waren bijgeschreven toen Renate en René in Enschede waren. Hier ben ik de rest van de dag mee bezig geweest."
+                    }]
+                },
+                {
+                    "datum": "24-09-2026",
+                    "entries": [{
+                        "text": "Janine had vandaag weer de deur geopend. Ik ben weer bezig geweest met de formulieren en ben gekomen tot 95. Verder is er niet heel veel gebeurd."
+                    }]
+                },
+                {
+                    "datum": "25-09-2026",
+                    "entries": [{
+                        "text":"Ik ben vandaag verder gegaan met de formulieren. Ik ben tot 105 gekomen. René was op kantoor vandaag."
+                    }]
+                }]
         }]
     }]
 
