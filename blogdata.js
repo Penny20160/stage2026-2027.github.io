@@ -122,8 +122,9 @@ const data = [{
         "dagen": [{
             "datum": "21-09-2026",
             "entries": [{
-                "text":"Renate en ik waren vandaag de enigen in kantoor. Renate was een beetje ziekjes dus ze zei dat ze zal kijken hoelang ze het vol zal houden. Ik begon vandaag eerst vandaag eerst met lijmen van de blokjes en daarna ben ik de foto's gaan ordenen en de adressen die ik nog niet had toe te voegen. Hier ben ik mee bezig geweest tot Renate zei dat we zouden stoppen. Woensdag begin ik eerst met het ordenen van de multomap en daarna ga ik weer formulieren invullen en aanpassen."
-            },
+                "text": "Renate en ik waren vandaag de enigen in kantoor. Renate was een beetje ziekjes dus ze zei dat ze zal kijken hoelang ze het vol zal houden. Ik begon vandaag eerst vandaag eerst met lijmen van de blokjes en daarna ben ik de foto's gaan ordenen en de adressen die ik nog niet had toe te voegen. Hier ben ik mee bezig geweest tot Renate zei dat we zouden stoppen. Woensdag begin ik eerst met het ordenen van de multomap en daarna ga ik weer formulieren invullen en aanpassen."
+            }]
+        },
                 {
                     "datum": "22-09-2026",
                     "entries": [{
@@ -149,5 +150,5 @@ const data = [{
                     }]
                 }]
         }]
-    }]
+    
 
