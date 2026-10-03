@@ -149,6 +149,60 @@ const data = [{
                         "text":"Ik ben vandaag verder gegaan met de formulieren. Ik ben tot 105 gekomen. René was op kantoor vandaag."
                     }]
                 }]
-        }]
+    },
+    {
+        "label": "Week 5",
+        "dagen": [{
+            "datum": "28-09-2026",
+            "entries": [{
+                "text":"Ik ben vandaag samen met René naar Historisch museum Brielle geweest. Hier moesten we de bevochtigers schoonmaken. Dit betekende dat ze uit elkaar moesten gehaald. We hebben uiteindelijk niet allemaal kunnen doen, daar hadden we te weinig tijd voor. Ik heb wel foto's in het museum gemaakt, maar niet van mezelf schoonmakend. Ik ben onderweg terug afgezet op Vlaardingen Oost, want we kwamen er langs. Morgen ben ik op kantoor en woensdag ga ik naar Hengelo."
+            }]
+        },
+            {
+                "datum": "29-09-2026",
+                "entries": [{
+                    "text":"Kantoordag vandaag. Ik ben vandaag van 105 tot 123 gekomen. Verder hebben René en ik afgesproken hoe laat en waar ik morgen wordt afgehaald. Dit is half 8 bij mij thuis. "
+                }]
+            },
+            {
+                "datum": "30-09-2026",
+                "entries": [{
+                    "text":"Ik ben vandaag om half 8 opgehaald. Daarna zaten we bijna twee uur in de auto. We moesten in Hengelo een kunstobject polijsten en bleek naderhand; wat graffiti verwijderen. Ik ben met een polijstapparaat bezig geweest terwijl Kilermo met de hand beig was. Ik moest met het apparaat druk geven en in cirkels bewegen. Dit ging best goed. Daarna hebben Kilermo en ik de kleuren bepaald. Rene werd terwijl we bezig waren gebeld over een ander monument in Hengelo waar wat mis mee was. Rene ging dus tussendoor even weg en nadat Kilermo en ik klaar waren hebben we dit object ge-inspecteerd. We konden het nog niet fixen omdat we een huurauto hadden en we daarmee niet het terrein op mochten rijden. Nadat we daarmee klaar waren ben ik weer thuis gebracht. "
+                }]
+            },
+            {
+                "datum": "01-10-2026",
+                "entries": [{
+                    "text":"Vandaag was ik wel weer op kantoor. Ik heb weer formulieren ingevuld. Ik was tot object 133 gekomen. Er waren een aantal objecten dubbel in de lijst gezet. Die heb ik uit de telling verwijderd, waardoor er 6 objecten er af moesten worden gehaald."
+                }]
+            },
+            {
+                "datum": "02-10-2026",
+                "entries": [{
+                    "text":"Er is nog object verwijderd van de lijst en ik ben tot object 151 gekomen. Verder weet ik nu dat Rene en Renate aanstaande dinsdag naar de gemeente Enschede gaan om de bevindingen te bespreken. Ik ga niet mee. Verder is er weinig gebeurd."
+                }]
+            }],
+        "fotos": [{
+            "src":"Image (10).jpg"
+        },
+            {
+                "src":"Image (11).jpg"
+            },
+            {
+                "src":"Image (12).jpg"
+            },
+            {
+                "src":"Image (13).jpg"
+            },
+            {
+                "src":"Image (14).jpg"
+            },
+            {
+                "src":"Image (8).jpg"
+            },
+            {
+                "src":"Image (9).jpg"
+            }]
+    }]
     
 
