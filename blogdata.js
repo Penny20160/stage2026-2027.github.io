@@ -203,6 +203,39 @@ const data = [{
             {
                 "src":"Image (9).jpg"
             }]
+    },
+    {
+        "label": "Week 6",
+        "dagen": [{
+            "datum": "05-10-2026",
+            "entries": [{
+                "text":"Ik ben vandaag verder weer gegaan met de formulieren voor Enschede. Ik ben tot object 161 gekomen. Daarnaast ga ik morgen weer naar Hengelo en ik heb afgesproken dat ik om half 8 bij station Woerden sta om opgepikt te worden door Jolijn. Verder ga ik ergens deze week ook een gat in een soort worm naaien. Die worm is om te voorkomen dat als er lekage water bij de objecten komt. Niet een typisch klusje, maar ze hadden me zien borduren en de vraag was ontstaan of ik ook kon naaien. Dat was een ja dus dit was als een soort grap van me gevraagd. Ik ga dus ergens deze week een reguliere naald en draad meenemen, want je kunt niet naaien met een borduurnaald."
+            }]
+        },
+            {
+             "datum": "06-10-2026",
+                "entries": [{
+                    "text":"Vandaag ben ik weer naar Hengelo gegaan. We gingen eerst naar het stationsplein om op 1 van de objecten de graffiti te verwijderen en de rest schoon te maken met de hogedrukspuit. We hadden zo'n 10 watervaten met 20 liter water meegenomen. Dat bleek achteraf te weinig dus we moesten water bijhalen. Gelukkig stond er een kraan op dat plein. De graffiti kwam er redelijk vanaf. Daarna reden we naar de bollen van vorige week om de bovenste bollen te polijsten en daarnaast een klein schadeplekje bij te kleuren. Ik ging polijsten met Jolijn en Guillermo(ik heb zijn naam eerder verkeerd geschreven hier) ging het object bijkleuren met verf. In tegenstelling tot vorige week deed ik het polijsten deze week wel met de hand. Daarna zijn we weer richting huis gegaan. We stonden nog een goede drie kwartier in de file richting Woerden waar ik weer in overleg ben afgezet."
+                }]
+            },
+            {
+            "datum": "07-10-2026",
+                "entries": [{
+                    "text":"Ik ben vandaag tot object 172 gekomen. Verder heb ik vandaag de worm gefixd met naald een draad. Dit ging prima."
+                }] 
+            },
+            {
+                "datum": "08-10-2026",
+                "entries": [{
+                    "text":"Formulieren weer vandaag. Ik ben tot object 184 gekomen. "
+                }]
+            },
+            {
+                "datum": "09-10-2026",
+                "entries": [{
+                    "text":"Donderdagavond kwam ik thuis met diaree. Met anderhalf uur reistijd is dit niet erg handig om mee naar kantoor te komen. Ik kon wel werken dus ik heb gevraagd om wat op de server te zetten zodat ik wat thuis kon doen. Ik kon dus aan de slag voor Vlaardingen. Ik heb de inspectieformulieren voorbereid, maar kon helaas het niet volledig invullen. De foto's waren over het algemeen 6 of 7 jaar oud en dus niet up to date genoeg meer om mee te inspecteren. Verder was er niet veel bijzonder gebeurd."
+                }]
+            }]
     }]
     
 
