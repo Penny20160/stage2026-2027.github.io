@@ -236,6 +236,45 @@ const data = [{
                     "text":"Donderdagavond kwam ik thuis met diaree. Met anderhalf uur reistijd is dit niet erg handig om mee naar kantoor te komen. Ik kon wel werken dus ik heb gevraagd om wat op de server te zetten zodat ik wat thuis kon doen. Ik kon dus aan de slag voor Vlaardingen. Ik heb de inspectieformulieren voorbereid, maar kon helaas het niet volledig invullen. De foto's waren over het algemeen 6 of 7 jaar oud en dus niet up to date genoeg meer om mee te inspecteren. Verder was er niet veel bijzonder gebeurd."
                 }]
             }]
+    },
+    {
+        "label": "Week 7",
+        "dagen": [{
+            "datum": "12-10-2026",
+            "entries": [{
+                "text":"Vandaag ben ik eerst begonnen om de formulieren van Enschede af te maken. Dit duurde tot lunchtijd ongeveer. Daarna heb ik een start gemaakt met het ordenen van de formulieren en foto's van Hengelo. Dit omdat Renate op de mannier hoe het eerst stond niks kon vinden in de formulieren. Ik heb dezelfde nummering gebruikt als bij Enschede zodat het consequent bleef. Renate melde me dat Guillermo morgen voor me de deur zou open doen omdat zij s'ochtends naar de fysio moest en René naar een klus was. Verder is er weinig bijzonders gebeurd."
+            }]
+        },
+        {
+            "datum": "13-10-2026",
+            "entries": [{
+                "text":"Guillermo stond eerst vandaag in de file wat betekende dat ik ruim een uur heb gewacht voor de deur open ging. Nadat ik alles had klaar gezet en een kop thee voor mezelf had gemaakt was Renate al binnen en kon ik verder met de foto's van Hengelo. Ik begon eerst met de foto's van de objecten die met foto in de formulieren stonden(Ik heb geen idee waarom dat bij sommige niet was gedaan). Daarna heb ik met het zoeken naar adressen een deel van de andere opgespoord. Morgen ga ik proberen de rest af te maken."
+            }]
+            },
+            {
+            "datum": "14-10-2026",
+                "entries": [{
+                    "text":"Vandaag zou ten eerste Krijn komen. Ik ben eerst begonnen met afmaken van de foto's. Die zijn vandaag niet klaar gekomen. Tijdens het tienuurtje kwam de vraag of ik kon komen helpen op het atelier. Ze hadden met siliconen een stel poten van ezels nagemaakt maar op het voorbeeld van de mal waren siliconen resten blijfen steken. Dit betekende dat die resten er op een bepaalde manier af moesten worden gehaald. Uiteindelijk hebben we dat gedaan door een naald met een tang in een gum te boren en dat als handvat te gebruiken om met de naald de siliconen resten te verwijderen. Hier ben ik tot ongeveer het drie-uurtje mee bezig geweest. Daarna ben ik weer bezig geweest met de foto's tot we weer naar huis gingen."
+                }]
+            },
+            {
+            "datum": "gespreksverslag 14-10-2026",
+                "entries": [{
+                    "text":"Uit het gesprek met Krijn bleek dat mijn positieve punten zijn dat ik betrouwbaar ben, gestructuureerd werk en dat ik initatief neem. Wat het bedrijf nog van me wil zien is dat ik een keer zelf op basis van de foto's een inspectie uitvoer. Daarnaast willen ze een keer dat ik een calculatie uitvoer sinds ze van Krijn hoorden dat ik daar ook best wel goed in ben."
+                }]
+            },
+            {
+                "datum": "15-10-2026",
+                "entries": [{
+                    "text":"Vandaag ging ik mee met het terugverhuizen van een stel kunstobjecten. Dit betekende dat Guillermo en ik eerst de objecten in de vrachtwagen moesten laden. Toen dat klaar was dronken we eerst nog een kop koffie/thee en toen reden we naar het pand. Toen gingen we weer uitladen en uitpakken om de objecten weer op de oorspronkelijke plek te zetten. Daarnaast was Rene andere objecten aan het uitpakken die door verhuizers waren teruggebracht. Daar waren wat objecten bij die weer met ons terug moesten. Het verhuizen duurde uiteindelijk langer dan verwacht waardoor ik afgezet op het station moest worden om op tijd thuis te zijn. "
+                }]
+            },
+            {
+                "datum": "16-10-2026",
+                "entries": [{
+                    "text":"Vandaag heb ik eerst de foto's van Hengelo afgemaakt. Van de foto's die toen aan het einde overbleven heb ik een overig mapje voor aangemaakt. Daarna ben ik weer verder gegaan met de objecten van Vlaardingen. Ik heb vorige week het juiste gedaan dus moest ik dat verder doen voor de objecten. Verder is er weinig interessants gebeurd."
+                }]
+            }]
     }]
     
 
