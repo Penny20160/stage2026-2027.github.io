@@ -275,6 +275,57 @@ const data = [{
                     "text":"Vandaag heb ik eerst de foto's van Hengelo afgemaakt. Van de foto's die toen aan het einde overbleven heb ik een overig mapje voor aangemaakt. Daarna ben ik weer verder gegaan met de objecten van Vlaardingen. Ik heb vorige week het juiste gedaan dus moest ik dat verder doen voor de objecten. Verder is er weinig interessants gebeurd."
                 }]
             }]
+    },
+    {
+        "label": "Week 8",
+        "dagen": [{
+            "datum": "19-10-2026",
+            "entries": [{
+                "text":"Ik ben vandaag weer verder gegaan met invullen van de formulieren van Vlaardingen. Wat ik die vrijdag thuis had gedaan bleek prima te zijn dus ik ging op dezelfde manier verder. Daarmee ben ik tot object 29 gekomen. Daarnaast heb ik krtonnen sjablomen moeten uitsnijden van de stenen ezels die over de komende drie dagen worden opgehangen. Ik ga daar ook mee naartoe."
+            }]
+        },
+            {
+                "datum": "20-10-2026",
+                "entries": [{
+                    "text":"Vandaag is er een start gemaakt met het ophangen van de ezeltjes. Er wordt verbouwd in het schoolpand waar we bezig zijn dus er zijn dus andere mensen aanwezig. Er gingen vandaag 3 mee en de rest komt later in de week. We hebben maar twee onderdelen opgehangen, maar het zat ons niet helemaal mee. De lijm van de staafjes droogde niet helemaal lekker op en er was nog iemand in die gang aan het werk waardoor we onze spullen niet handig konden uitstallen. De metalen staafjes voor het ophangsysteem heb ik gezaagd met de slijptol. Morgen gaan we weer verder. De metalen staafjes zitten al in de rest van de ezels van morgen. "
+                }]
+            },
+            {
+                "datum": "21-10-2026",
+                "entries": [{
+                    "text":"De eerste drie ezels zitten op de muur. De planning van de rest van de bouwcrew is niet helemaal lekker met ons besproken, waardoor we 10 minuten nadat we er weer waren we weggestuurdd werden omdat ze geluidstests gingen doen. Dit leverde een gat op van zo'n twee uur. Ik kan me hier best aan irriteren sinds als dit van tevoren was gedeeld dan hadden we er onze planning op aangepast. In de tijd die we niet konden werken hebben Guillermo en ik met cement op de steen die in het atelier ligt en die gebroken was een kleurtest met cement gedaan. Morgen worden de laatste twee ezels opgehangen en worden de gaten afgewerkt."
+                }]
+            },
+            {
+                "datum": "22-10-2026",
+                "entries": [{
+                    "text":"Nadat de eerste ezel was ingeladen(ezel nummer twee moest nog een klein beetje worden bijgewerkt) gingen we weer naar het schoolpand. Hier moesten we eerst de laatste metalen staafjes zagen en lijmen. Het zagen deed ik zoals gebruikelijk sinds ik inmiddels behoorlijk wat ervaring heb met de slijptol. Het lijmen deden Guillermo en ik om beurten. Nadat de lijm droog was hebben we de voorste ezel voor lunchtijd opgehangen. Na lunchtijd moesten we de laatste nog doen. De vervelenste die nog niet hing voor René mij moest afzetten op hetstation zodat ik op tijd thuis was voor paardrijden. Morgen werk ik thuis sinds er niemand op kantoor aanwezig is. Hierom heb ik de werkcomputer mee naar huis gekomen. René heeft me s'avonds nog wel een foto gestuurd toen die was opgehangen dus ze hebben het ophangen wel gehaald gelukkig. "
+                }]
+            },
+            {
+                "datum": "23-10-2026",
+                "entries": [{
+                    "text":"Vandaag heb ik vanuit huis verder gewerkt met de objecten van Vlaardingen. Ik ben vandaag gekomen tot object 50. Dit kwam eigenlijk doordat ik me niet helemaal lekker kon focussen. De ezels van de afgelopen dagen zaten hier ook tussen dus ik heb de foto's van die gebruikt. Verder is er weinig bijzonders gebeurd."
+                }]
+            }],
+        "fotos": [{
+            "src":"8bdf1712-51f6-48c9-9f22-9798804c7280.jpeg"
+        },
+            {
+                "src":"IMG_2906.jpeg"
+            },
+            {
+                "src":"IMG_2907.jpeg"        
+            },
+            {
+                "src":"IMG_2908.jpeg"
+            },
+            {
+                "src":"IMG_2909.jpeg"
+            },
+            {
+                "src":"IMG_2910.jpeg"
+            }]
     }]
     
 
