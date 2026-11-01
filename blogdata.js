@@ -326,6 +326,66 @@ const data = [{
             {
                 "src":"IMG_2910.jpeg"
             }]
+    },
+    {
+        "label": "Week 9",
+        "dagen": [{
+            "datum": "26-10-2026",
+            "entries": [{
+                "text": "Vandaag ben ik op kantoor weer verder gegaan met de objecten van de gemeente Vlaardingen. Ik ben tot object 75 gekomen. Verder is er afgeproken dat ik woensdag mee ga naar Heusden om objecten mee te verhuizen. Dinsdag laden we een ander deel in kratten om mee te nemen."
+            }]
+        },
+        {
+            "datum": "27-10-2026",
+            "entries": [{
+                "text": "S'ochtends ging ik eerst verder met de objecten van de gemeente Vlaardingen. Na de lunch heb ik samen met Guillermo de dozen in de kratten geladen. Die worden morgen door Intranz in geladen. René en ik brengen morgen nadat we de objecten opgehaald hebben naar Intranz. Ik ben met de objecten van Vlaardingen vandaag tot 100 gekomen."
+            }]
+        },
+        {
+            "datum": "28-10-2026",
+            "entries": [{
+                "text": "Nadat we eerst nog koffie en thee hadden gedronken en de laatste dingen in de kleine vrachtwagen hadden geladen reden we richting Heusden. We kwamen daar aan rond 10 uur. Het plan was dat we een stuk of 150 schilderijen, 4 houten kisten en een 'klein beetje' archiefwerk mee moesten nemen. Het was alleen geen klein beetje. Rond lunchtijd hadden we de schilderijen ingeladen. En toen bleek dat de stukken steen ook nog mee moesten. Ik heb hier op een gegeven moment m'n frustratie getoond, omdat ik besefte dat we niet voor 4 uur daar klaar zouden komen. Ik kon beter in dat moment m'n frustratie voor me houden en doorwerken. Ik heb hier op de weg richting Intranz nog wel sorry voor gezegd tegen René. Nadat alles eindelijk was ingeladen reden René en ik richting Intranz. Half zes waren we daar. Toen moesten de spullen in de vrachtwagen nog overgeladen worden. 8 keer op en neer rijden met een palletwagen en vloekbeurt van mij omdat het wiel van de palletwagen vast kwam te zitten met de zwaarste kistenset er in. Half zeven waren we terug bij kantoor om de laatste resten weg te brengen. René had zijn sleutels laten liggen dus ik moest de deur nog even openmaken. Nadat de laatste resten in de gang waren gezet heeft René mij naar huis gebracht en tussendoor nog even eten gehaald. Ik heb met toestemming de uren tot ik thuis was geschreven vandaar dat er 11 uur staat.  "
+            }]
+        },
+            {
+                "datum": "29-10-2026",
+                "entries": [{
+                    "text":"Vandaag heb ik René geholpen met zand weg te scheppen op een stenen tafel die weg moest van de plek waar die stond. Nadat het zand weggeschept was is er een combigraafmachine die het object weggetild heeft. Kort daarna ben ik naar huis gegaan voor mijn ambulante begeleiding."
+                }]
+            },
+            {
+                "datum": "30-10-2026",
+                "entries": [{
+                    "text":"Vandaag ben ik weer verder gegaan met de formulieren van Vlaardingen. Ik ben tot object 123 gekomen. Daarnaast is er een fiets geregeld, dus volgende week ga ik met de fiets foto's maken van de kunstobjecten door Vlaardingen heen. "
+                }]
+            }],
+        "fotos": [{
+            "src":"Image (15).jpg"
+        },
+            {
+                "src":"Image (16).jpg"
+            },
+            {
+                "src":"Image (21).jpg"
+            },
+            {
+                "src":"Image (22).jpg"
+            },
+            {
+                "src":"Image (23).jpg"
+            },
+            {
+                "src":"Image (17).jpg"
+            },
+            {
+                "src": "Image (18).jpg"
+            },
+            {
+                "src":"Image (19).jpg"
+            },
+            {
+                "src":"Image (20).jpg"
+            }]
     }]
     
 
